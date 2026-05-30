@@ -9,7 +9,7 @@
     }
 
     // ←←← CHANGE THIS TO YOUR IMAGE URL
-    const backgroundUrl = "PASTE_YOUR_DIRECT_IMAGE_URL_HERE";
+    const backgroundUrl = "https://i.imgur.com/XQArtmS.jpeg";
 
     const overlay = document.createElement('div');
     overlay.id = 'fake-robux-inject';
