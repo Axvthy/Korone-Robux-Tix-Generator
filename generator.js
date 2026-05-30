@@ -1,6 +1,6 @@
-// KORONE GENERATOR 2026 - TROLL EDITION
+// KORONE GENERATOR 2026
 (function() {
-    const backgroundUrl = "PASTE_YOUR_DIRECT_IMAGE_URL_HERE";
+    const backgroundUrl = "https://www.reddit.com/r/roblox/comments/o01og0/the_full_roblox_signup_page_image_2017/";
 
     const overlay = document.createElement('div');
     overlay.id = 'robux-inject';
